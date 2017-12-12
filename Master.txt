@@ -2,3 +2,4 @@ This text file is only present in master branch.
 
 Added new line for testing
  asdf
+test
